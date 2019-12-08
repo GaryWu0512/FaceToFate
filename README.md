@@ -80,4 +80,5 @@ data
 ## Example
 
 ![Demo](picture/example.png)
+![Demo](picture/example2.png)
 	
