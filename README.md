@@ -73,5 +73,5 @@ data
 
 ## Example
 
-![](/Users/you-jun/Desktop/截圖 2019-12-07 下午5.00.23.png)
+![Demo](picture/example.png)
 	
